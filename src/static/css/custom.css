@@ -1,0 +1,15 @@
+/*
+Custom Styles. Really just for custom properties that we want to customise
+*/
+
+.bg-custom-dark {
+    background-color: #191A1C;
+}
+
+.bg-sidebar {
+    background-color: #2c2c2c;
+}
+
+body {
+    background-color: #191A1C;
+}
