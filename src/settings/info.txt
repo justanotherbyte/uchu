@@ -1,0 +1,2 @@
+This settings directory is where all the user's settings and any relevant application caches will go.
+They are stored in .db files.
