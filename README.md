@@ -19,7 +19,7 @@ A light-weight yet powerful manga-reader written in Python.
 ## Features
 Here's a list of features that we support, or that we will soon support in the future!
 
-[x] Plugin Support
-[] User Login
-[] Manga Tracking
-[] Comfortable Reader
+- [x] Plugin Support
+- [ ] User Login
+- [ ] Manga Tracking
+- [ ] Comfortable Reader
